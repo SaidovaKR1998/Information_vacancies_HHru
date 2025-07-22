@@ -38,8 +38,7 @@
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/information-vacancies-HHru.git
-   cd information-vacancies-HHru
+   https://github.com/SaidovaKR1998/Information_vacancies_HHru.git
    
 2. Установка зависимостей:
    ```bash
